@@ -1,6 +1,6 @@
-Homework 2: Classifying spam emails with Naive Bayes. 
+#### Homework 2: Classifying spam emails with Naive Bayes. 
 
-Due: Sept 27 at the start of class.
+##### Due: Sept 23 at the start of class.
 
 In this homework you'll be implementing a simple machine learning classifier using the Naive Bayes algorithm to determine whether an email is spam or ham.
 This will give you a chance to practice some of the skills you've learned so far and integrate them into a real-world

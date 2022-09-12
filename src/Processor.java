@@ -1,7 +1,4 @@
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.io.File;
-import java.util.Scanner;
 
 /* The Processor class will open a file and tokenize it. */
 
